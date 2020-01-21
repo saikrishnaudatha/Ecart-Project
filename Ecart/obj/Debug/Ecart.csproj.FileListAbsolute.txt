@@ -1,0 +1,6 @@
+E:\KRISHNA\C#\Ecart\obj\Debug\Ecart.csprojAssemblyReference.cache
+E:\KRISHNA\C#\Ecart\bin\Debug\Ecart.exe.config
+E:\KRISHNA\C#\Ecart\bin\Debug\Ecart.exe
+E:\KRISHNA\C#\Ecart\bin\Debug\Ecart.pdb
+E:\KRISHNA\C#\Ecart\obj\Debug\Ecart.exe
+E:\KRISHNA\C#\Ecart\obj\Debug\Ecart.pdb
